@@ -328,7 +328,7 @@ Global
 ==================================================================================================*/
 /* line 69, ../scss/_custom.scss */
 html {
-  background-color: #ece5df !important;
+  background-color: #fff200 !important;
 }
 
 /* line 73, ../scss/_custom.scss */
@@ -588,7 +588,7 @@ nav {
   border-top: 1px solid #9d9995;
   border-bottom: 1px solid #9d9995;
   margin-bottom: 3em;
-  background-color: #ece5df;
+  background-color: #fff200;
 }
 
 /* line 298, ../scss/_custom.scss */
@@ -917,7 +917,7 @@ body {
 
 /* line 325, ../bower_components/foundation/scss/foundation/components/_global.scss */
 body {
-  background: #ece5df;
+  background: #fff200;
   color: #0a161f;
   padding: 0;
   margin: 0;
